@@ -1,0 +1,13 @@
+*{
+    font: times new ;
+}
+
+.form{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+form{
+
+}
